@@ -1,2 +1,1 @@
-# tensorflow_docs_prac
-These are projects I made with help from tensorflow docs
+# Tensorflow implemented Machine Learning projects on ipyhton notebooks
